@@ -6,4 +6,18 @@ Tic Tac Toe is a simple two-player game. To start the game, a table with three r
 
 In this project, we implement this game using C programming language.
 
+* Map:
+<img src='https://github.com/HesamAsad/ICSP-Fall2019-CA1-P2-Tic-Tac-Toe/blob/master/map.jpg?raw=true'>
+
+* Turns:
+<img src='https://github.com/HesamAsad/ICSP-Fall2019-CA1-P2-Tic-Tac-Toe/blob/master/turn.jpg?raw=true'>
+
+* End:
+  * Win: 
+  <img src='https://github.com/HesamAsad/ICSP-Fall2019-CA1-P2-Tic-Tac-Toe/blob/master/end.jpg?raw=true'>
+  
+  * Tie:
+  <img src='https://github.com/HesamAsad/ICSP-Fall2019-CA1-P2-Tic-Tac-Toe/blob/master/end2.jpg?raw=true'>
+  
+ 
 Personal website: https://hesamasad.github.io
